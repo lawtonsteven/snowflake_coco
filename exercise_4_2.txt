@@ -1,0 +1,13 @@
+The procedure looks good. Now:
+
+1. Call it to export a small sample from a table I care about:
+   CALL <PROCNAME> (
+     'SELECT * FROM [YOUR_TABLE] LIMIT 100',
+     '@[YOUR_STAGE]',
+     'experian_export_test',
+     'SecurePass123!'
+   );
+
+2. List the files on the stage to confirm the .7z file was created
+3. Show me how I would GET the file from the stage to my local machine
+

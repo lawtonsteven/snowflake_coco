@@ -1,0 +1,16 @@
+I've selected use case #[NUMBER] — [TITLE].
+
+Before you start building anything, I want you to create a design document.
+Please ask me 10 clarifying questions that will help you understand exactly what I need.
+Ask one question at a time and wait for my answer before the next.
+
+Please look at the relevant tables in my database to help ask good questions.
+
+At a minimum, the design document should include:
+1. Problem Statement
+2. Business Case (a draft email to gain executive support)
+3. Target Users
+4. Data Requirements
+5. Proposed Solution
+6. Success Criteria
+

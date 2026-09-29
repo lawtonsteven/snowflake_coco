@@ -1,0 +1,20 @@
+I am a presales consultant at Experian Australia.
+ I deliver Mosaic and ConsumerView pitches to clients:
+ I need to be able to test data and volumes quickly without having to depend on a consultant.
+
+ Key challenges:
+ - unknown coverage of spend data
+ - Producing match rate and Mosaic profile summaries
+ - Standardising enriched output file delivery
+
+ I have access to Snowflake tables with Mosaic codes,
+ ConsumerView scores, and spend analytics data
+
+ Give me 10 use cases for how Snowflake and Cortex Code
+ can improve client delivery quality and reduce manual effort.
+
+ For each: title, 2-sentence value, data needed,
+ difficulty (Easy/Medium/Hard), prototype time.
+ Rank by impact + feasibility.
+
+

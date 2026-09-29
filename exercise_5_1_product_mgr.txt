@@ -1,0 +1,22 @@
+I am a product manager at Experian Australia working on
+the Mosaic consumer classification product.
+
+We are responsible for:
+- Maintaining the Mosaic segmentation model
+- Delivering Mosaic bureau data to clients via Snowflake
+- Monitoring classification coverage and quality
+
+Current challenges:
+- Understanding who queries our Mosaic data and how often
+- Monitoring match rates and coverage changes over time
+- Detecting quality issues before clients notice them
+
+I have access to our Mosaic product database including
+enrichment history, model outputs, and delivery logs.
+
+Give me 10 use cases for how CoCo can improve product
+quality, client experience, and operational efficiency.
+
+For each: title, 2-sentence value, data needed,
+difficulty, prototype time. Rank by impact + feasibility.
+

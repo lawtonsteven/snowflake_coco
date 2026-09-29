@@ -1,0 +1,12 @@
+I have a table that has been enriched with Mosaic data
+Table: MOBILE.SSMS.TBL_HIN_ENHANCEMENTS
+
+Please:
+1. Identify which columns contain the Mosaic or CV enrichment fields
+2. Show me the distribution of Mosaic categories (or CV segments) in this table
+3. Are any categories over- or under-represented compared to what you would expect
+   for a general Australian adult population?
+4. Have these distributions changed in the last 3 months?
+   Pull historical data if available to show the trend.
+5. Identify the top 5 and bottom 5 Mosaic categories by record count.
+

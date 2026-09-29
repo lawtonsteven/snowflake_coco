@@ -1,0 +1,24 @@
+I need a stored procedure to export data from a Snowflake query to a stage
+as a compressed file (7-Zip format) with password protection. Only use the 7-Zip (.7z) option.
+
+Use the following table: [DATABASE].[SCHEMA].[TABLE]
+Only extract 100 rows from the table using the limit clause.
+
+I need a Python Snowpark stored procedure to do this.
+
+Before you build anything, please explain:
+1. What approach you will use and which Python libraries
+2. What the procedure signature should look like (parameters and return type)
+3. Any limitations I should know about
+
+The procedure should accept:
+- sql_query: the SQL query to execute (VARCHAR)
+- stage_path: the target stage path to write the file (VARCHAR)
+- filename: the output filename without extension (VARCHAR)
+- zip_password: the password to protect the compressed file (VARCHAR)
+
+Then build and CREATE the procedure in my working schema.
+Test it with: SELECT CURRENT_DATE() AS today, CURRENT_USER() AS me
+
+
+

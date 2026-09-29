@@ -1,0 +1,2 @@
+Build a similar dashboard within Snowflake as a Streamlit in Snowflake app. Please deploy and test this version before finalising it.
+

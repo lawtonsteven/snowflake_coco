@@ -1,0 +1,9 @@
+I've reviewed the design and it looks good. Please create a plan and begin phase 1.
+
+At the end of each phase, please test the solution yourself before telling me it is
+ready for me to test.
+
+Use the schema defined initially to store all objects.
+
+If a step requires many SQL statements, please create a *.sql file so I can
+run everything with a single 'Run All' action.
