@@ -1,0 +1,12 @@
+For the rest of this session, please use the following context:
+
+My core business data can be found at the database.schema of MOBILE.SSMS. 
+
+For the creation of any objects such as creating tables, views, functions, stored procedures, stages, streamlit objects, ML objects these must be created in a different location which is <DATABASE>.<SCHEMA>
+
+
+Warehouse to use is: <WAREHOUSE>
+Use my existing role — do not change it without asking me.
+
+Please confirm you can see both schemas.
+
