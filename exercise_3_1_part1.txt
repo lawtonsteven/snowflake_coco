@@ -1,0 +1,11 @@
+I want to profile a table called: MOBILE.SSMS.TBL_HIN_ENHANCEMENTS
+
+Please give me a business-friendly data profile including:
+1. Current state: row count, approximate size, when it was last updated
+2. Column analysis: for each column, show the null rate and distinct value count
+3. Distribution: for the most important categorical columns, show me the top 10 most common values
+4. Freshness: has this table grown, shrunk, or stayed the same in the last 30 days?
+5. Quality flags: are there columns with >20% nulls? Any unexpected values?
+
+Write the output as a report I could share and include a 'Key Observations' section at the end with 3-5 bullet points.
+

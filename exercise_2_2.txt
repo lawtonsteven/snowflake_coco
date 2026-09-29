@@ -1,0 +1,13 @@
+I want to understand how a specific table is being used.
+The table I want to investigate is: MOBILE.SSMS.TBL_HIN_ENHANCEMENTS
+
+Please:
+1. Find all stored procedures, functions, tasks, and views that reference this table
+2. Pull the query history for the last 30 days where either this table is directly
+   queried, OR the objects that reference it are used
+3. Tell me: which users or roles are querying this most often? How frequently?
+4. Show me the top 5 heaviest queries (most bytes scanned or longest runtime)
+5. Are there any time patterns — e.g. does usage spike at certain times?
+
+Summarise it as a 'data asset intelligence report' for this table.
+
