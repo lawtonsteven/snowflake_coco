@@ -1,0 +1,15 @@
+I am a data analyst/data engineer/analytics consultant at Experian. I want to understand what programmatic objects exist in my Snowflake account for the database.schema of MOBILE.SSMS.
+
+Please give me a complete inventory of:
+1. All stored procedures — name, schema, creation date, last modified
+2. All user-defined functions (UDFs) — name, schema, type (Python/SQL/Java), creation date
+3. All tasks — name, status (running/suspended), schedule, last run time
+4. All dynamic tables — name, schema, target lag, last refreshed
+
+For each category, tell me:
+- How many objects exist
+- Which have been used in the last 30 days
+- Which appear to be orphaned (not used in 90+ days)
+
+Present as a business summary with totals first, then lists.
+
