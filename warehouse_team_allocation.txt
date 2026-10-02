@@ -1,0 +1,11 @@
+COCO_WORKSHOP_1
+Evelyn, Astrid, Caitlin, Junaid, Ram
+COCO_WORKSHOP_2
+Jonathan, Matthew, Shane, Gillian
+COCO_WORKSHOP_3
+Gavin, Harrison, Lucinda, Val, Charlotte
+COCO_WORKSHOP_4
+Mark D, Sabrina, Jo 
+COCO_WORKSHOP_5
+Alex, Hanif, Izad
+
